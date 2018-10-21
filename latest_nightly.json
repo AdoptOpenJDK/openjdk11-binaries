@@ -1,13 +1,13 @@
 {
-  "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk11-binaries/releases/13556221",
-  "assets_url": "https://api.github.com/repos/AdoptOpenJDK/openjdk11-binaries/releases/13556221/assets",
-  "upload_url": "https://uploads.github.com/repos/AdoptOpenJDK/openjdk11-binaries/releases/13556221/assets{?name,label}",
-  "html_url": "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/tag/jdk11-2018-10-20-05-19",
-  "id": 13556221,
-  "node_id": "MDc6UmVsZWFzZTEzNTU2MjIx",
-  "tag_name": "jdk11-2018-10-20-05-19",
+  "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk11-binaries/releases/13568759",
+  "assets_url": "https://api.github.com/repos/AdoptOpenJDK/openjdk11-binaries/releases/13568759/assets",
+  "upload_url": "https://uploads.github.com/repos/AdoptOpenJDK/openjdk11-binaries/releases/13568759/assets{?name,label}",
+  "html_url": "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/tag/jdk11-2018-10-21-04-34",
+  "id": 13568759,
+  "node_id": "MDc6UmVsZWFzZTEzNTY4NzU5",
+  "tag_name": "jdk11-2018-10-21-04-34",
   "target_commitish": "master",
-  "name": "jdk11-2018-10-20-05-19",
+  "name": "jdk11-2018-10-21-04-34",
   "draft": false,
   "author": {
     "login": "adoptopenjdk-github-bot",
@@ -30,14 +30,14 @@
     "site_admin": false
   },
   "prerelease": true,
-  "created_at": "2018-10-19T17:23:07Z",
-  "published_at": "2018-10-20T05:19:50Z",
+  "created_at": "2018-10-20T05:23:26Z",
+  "published_at": "2018-10-21T04:34:48Z",
   "assets": [
     {
-      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk11-binaries/releases/assets/9304962",
-      "id": 9304962,
-      "node_id": "MDEyOlJlbGVhc2VBc3NldDkzMDQ5NjI=",
-      "name": "OpenJDK11-jdk_aarch64_linux_hotspot_2018-10-20-05-19.tar.gz",
+      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk11-binaries/releases/assets/9334180",
+      "id": 9334180,
+      "node_id": "MDEyOlJlbGVhc2VBc3NldDkzMzQxODA=",
+      "name": "OpenJDK11-jdk_aarch64_linux_hotspot_2018-10-21-04-34.tar.gz",
       "label": "",
       "uploader": {
         "login": "adoptopenjdk-github-bot",
@@ -61,17 +61,17 @@
       },
       "content_type": "application/gzip",
       "state": "uploaded",
-      "size": 193377498,
+      "size": 193399434,
       "download_count": 0,
-      "created_at": "2018-10-20T05:19:51Z",
-      "updated_at": "2018-10-20T05:20:00Z",
-      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11-2018-10-20-05-19/OpenJDK11-jdk_aarch64_linux_hotspot_2018-10-20-05-19.tar.gz"
+      "created_at": "2018-10-21T04:34:49Z",
+      "updated_at": "2018-10-21T04:34:59Z",
+      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11-2018-10-21-04-34/OpenJDK11-jdk_aarch64_linux_hotspot_2018-10-21-04-34.tar.gz"
     },
     {
-      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk11-binaries/releases/assets/9304972",
-      "id": 9304972,
-      "node_id": "MDEyOlJlbGVhc2VBc3NldDkzMDQ5NzI=",
-      "name": "OpenJDK11-jdk_aarch64_linux_hotspot_2018-10-20-05-19.tar.gz.sha256.txt",
+      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk11-binaries/releases/assets/9334187",
+      "id": 9334187,
+      "node_id": "MDEyOlJlbGVhc2VBc3NldDkzMzQxODc=",
+      "name": "OpenJDK11-jdk_aarch64_linux_hotspot_2018-10-21-04-34.tar.gz.sha256.txt",
       "label": "",
       "uploader": {
         "login": "adoptopenjdk-github-bot",
@@ -97,15 +97,15 @@
       "state": "uploaded",
       "size": 126,
       "download_count": 0,
-      "created_at": "2018-10-20T05:20:00Z",
-      "updated_at": "2018-10-20T05:20:01Z",
-      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11-2018-10-20-05-19/OpenJDK11-jdk_aarch64_linux_hotspot_2018-10-20-05-19.tar.gz.sha256.txt"
+      "created_at": "2018-10-21T04:34:59Z",
+      "updated_at": "2018-10-21T04:34:59Z",
+      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11-2018-10-21-04-34/OpenJDK11-jdk_aarch64_linux_hotspot_2018-10-21-04-34.tar.gz.sha256.txt"
     },
     {
-      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk11-binaries/releases/assets/9304973",
-      "id": 9304973,
-      "node_id": "MDEyOlJlbGVhc2VBc3NldDkzMDQ5NzM=",
-      "name": "OpenJDK11-jdk_ppc64_aix_hotspot_2018-10-20-05-19.tar.gz",
+      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk11-binaries/releases/assets/9334188",
+      "id": 9334188,
+      "node_id": "MDEyOlJlbGVhc2VBc3NldDkzMzQxODg=",
+      "name": "OpenJDK11-jdk_ppc64_aix_hotspot_2018-10-21-04-34.tar.gz",
       "label": "",
       "uploader": {
         "login": "adoptopenjdk-github-bot",
@@ -129,17 +129,17 @@
       },
       "content_type": "application/gzip",
       "state": "uploaded",
-      "size": 184887374,
+      "size": 184878091,
       "download_count": 0,
-      "created_at": "2018-10-20T05:20:01Z",
-      "updated_at": "2018-10-20T05:20:36Z",
-      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11-2018-10-20-05-19/OpenJDK11-jdk_ppc64_aix_hotspot_2018-10-20-05-19.tar.gz"
+      "created_at": "2018-10-21T04:35:00Z",
+      "updated_at": "2018-10-21T04:35:09Z",
+      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11-2018-10-21-04-34/OpenJDK11-jdk_ppc64_aix_hotspot_2018-10-21-04-34.tar.gz"
     },
     {
-      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk11-binaries/releases/assets/9304984",
-      "id": 9304984,
-      "node_id": "MDEyOlJlbGVhc2VBc3NldDkzMDQ5ODQ=",
-      "name": "OpenJDK11-jdk_ppc64_aix_hotspot_2018-10-20-05-19.tar.gz.sha256.txt",
+      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk11-binaries/releases/assets/9334195",
+      "id": 9334195,
+      "node_id": "MDEyOlJlbGVhc2VBc3NldDkzMzQxOTU=",
+      "name": "OpenJDK11-jdk_ppc64_aix_hotspot_2018-10-21-04-34.tar.gz.sha256.txt",
       "label": "",
       "uploader": {
         "login": "adoptopenjdk-github-bot",
@@ -165,15 +165,15 @@
       "state": "uploaded",
       "size": 122,
       "download_count": 0,
-      "created_at": "2018-10-20T05:20:36Z",
-      "updated_at": "2018-10-20T05:20:37Z",
-      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11-2018-10-20-05-19/OpenJDK11-jdk_ppc64_aix_hotspot_2018-10-20-05-19.tar.gz.sha256.txt"
+      "created_at": "2018-10-21T04:35:09Z",
+      "updated_at": "2018-10-21T04:35:09Z",
+      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11-2018-10-21-04-34/OpenJDK11-jdk_ppc64_aix_hotspot_2018-10-21-04-34.tar.gz.sha256.txt"
     },
     {
-      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk11-binaries/releases/assets/9304985",
-      "id": 9304985,
-      "node_id": "MDEyOlJlbGVhc2VBc3NldDkzMDQ5ODU=",
-      "name": "OpenJDK11-jdk_ppc64_aix_openj9_2018-10-20-05-19.tar.gz",
+      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk11-binaries/releases/assets/9334196",
+      "id": 9334196,
+      "node_id": "MDEyOlJlbGVhc2VBc3NldDkzMzQxOTY=",
+      "name": "OpenJDK11-jdk_ppc64_aix_openj9_2018-10-21-04-34.tar.gz",
       "label": "",
       "uploader": {
         "login": "adoptopenjdk-github-bot",
@@ -197,17 +197,17 @@
       },
       "content_type": "application/gzip",
       "state": "uploaded",
-      "size": 196645419,
+      "size": 196662758,
       "download_count": 0,
-      "created_at": "2018-10-20T05:20:37Z",
-      "updated_at": "2018-10-20T05:20:47Z",
-      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11-2018-10-20-05-19/OpenJDK11-jdk_ppc64_aix_openj9_2018-10-20-05-19.tar.gz"
+      "created_at": "2018-10-21T04:35:10Z",
+      "updated_at": "2018-10-21T04:35:19Z",
+      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11-2018-10-21-04-34/OpenJDK11-jdk_ppc64_aix_openj9_2018-10-21-04-34.tar.gz"
     },
     {
-      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk11-binaries/releases/assets/9304992",
-      "id": 9304992,
-      "node_id": "MDEyOlJlbGVhc2VBc3NldDkzMDQ5OTI=",
-      "name": "OpenJDK11-jdk_ppc64_aix_openj9_2018-10-20-05-19.tar.gz.sha256.txt",
+      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk11-binaries/releases/assets/9334200",
+      "id": 9334200,
+      "node_id": "MDEyOlJlbGVhc2VBc3NldDkzMzQyMDA=",
+      "name": "OpenJDK11-jdk_ppc64_aix_openj9_2018-10-21-04-34.tar.gz.sha256.txt",
       "label": "",
       "uploader": {
         "login": "adoptopenjdk-github-bot",
@@ -233,15 +233,15 @@
       "state": "uploaded",
       "size": 121,
       "download_count": 0,
-      "created_at": "2018-10-20T05:20:47Z",
-      "updated_at": "2018-10-20T05:20:47Z",
-      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11-2018-10-20-05-19/OpenJDK11-jdk_ppc64_aix_openj9_2018-10-20-05-19.tar.gz.sha256.txt"
+      "created_at": "2018-10-21T04:35:20Z",
+      "updated_at": "2018-10-21T04:35:20Z",
+      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11-2018-10-21-04-34/OpenJDK11-jdk_ppc64_aix_openj9_2018-10-21-04-34.tar.gz.sha256.txt"
     },
     {
-      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk11-binaries/releases/assets/9304993",
-      "id": 9304993,
-      "node_id": "MDEyOlJlbGVhc2VBc3NldDkzMDQ5OTM=",
-      "name": "OpenJDK11-jdk_ppc64le_linux_hotspot_2018-10-20-05-19.tar.gz",
+      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk11-binaries/releases/assets/9334201",
+      "id": 9334201,
+      "node_id": "MDEyOlJlbGVhc2VBc3NldDkzMzQyMDE=",
+      "name": "OpenJDK11-jdk_ppc64le_linux_hotspot_2018-10-21-04-34.tar.gz",
       "label": "",
       "uploader": {
         "login": "adoptopenjdk-github-bot",
@@ -265,17 +265,17 @@
       },
       "content_type": "application/gzip",
       "state": "uploaded",
-      "size": 179492687,
+      "size": 179500659,
       "download_count": 0,
-      "created_at": "2018-10-20T05:20:48Z",
-      "updated_at": "2018-10-20T05:20:56Z",
-      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11-2018-10-20-05-19/OpenJDK11-jdk_ppc64le_linux_hotspot_2018-10-20-05-19.tar.gz"
+      "created_at": "2018-10-21T04:35:20Z",
+      "updated_at": "2018-10-21T04:35:30Z",
+      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11-2018-10-21-04-34/OpenJDK11-jdk_ppc64le_linux_hotspot_2018-10-21-04-34.tar.gz"
     },
     {
-      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk11-binaries/releases/assets/9304997",
-      "id": 9304997,
-      "node_id": "MDEyOlJlbGVhc2VBc3NldDkzMDQ5OTc=",
-      "name": "OpenJDK11-jdk_ppc64le_linux_hotspot_2018-10-20-05-19.tar.gz.sha256.txt",
+      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk11-binaries/releases/assets/9334205",
+      "id": 9334205,
+      "node_id": "MDEyOlJlbGVhc2VBc3NldDkzMzQyMDU=",
+      "name": "OpenJDK11-jdk_ppc64le_linux_hotspot_2018-10-21-04-34.tar.gz.sha256.txt",
       "label": "",
       "uploader": {
         "login": "adoptopenjdk-github-bot",
@@ -301,15 +301,15 @@
       "state": "uploaded",
       "size": 126,
       "download_count": 0,
-      "created_at": "2018-10-20T05:20:57Z",
-      "updated_at": "2018-10-20T05:20:57Z",
-      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11-2018-10-20-05-19/OpenJDK11-jdk_ppc64le_linux_hotspot_2018-10-20-05-19.tar.gz.sha256.txt"
+      "created_at": "2018-10-21T04:35:31Z",
+      "updated_at": "2018-10-21T04:35:31Z",
+      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11-2018-10-21-04-34/OpenJDK11-jdk_ppc64le_linux_hotspot_2018-10-21-04-34.tar.gz.sha256.txt"
     },
     {
-      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk11-binaries/releases/assets/9304998",
-      "id": 9304998,
-      "node_id": "MDEyOlJlbGVhc2VBc3NldDkzMDQ5OTg=",
-      "name": "OpenJDK11-jdk_ppc64le_linux_openj9_2018-10-20-05-19.tar.gz",
+      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk11-binaries/releases/assets/9334206",
+      "id": 9334206,
+      "node_id": "MDEyOlJlbGVhc2VBc3NldDkzMzQyMDY=",
+      "name": "OpenJDK11-jdk_ppc64le_linux_openj9_2018-10-21-04-34.tar.gz",
       "label": "",
       "uploader": {
         "login": "adoptopenjdk-github-bot",
@@ -333,17 +333,17 @@
       },
       "content_type": "application/gzip",
       "state": "uploaded",
-      "size": 196523783,
+      "size": 196502755,
       "download_count": 0,
-      "created_at": "2018-10-20T05:20:57Z",
-      "updated_at": "2018-10-20T05:21:06Z",
-      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11-2018-10-20-05-19/OpenJDK11-jdk_ppc64le_linux_openj9_2018-10-20-05-19.tar.gz"
+      "created_at": "2018-10-21T04:35:31Z",
+      "updated_at": "2018-10-21T04:35:42Z",
+      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11-2018-10-21-04-34/OpenJDK11-jdk_ppc64le_linux_openj9_2018-10-21-04-34.tar.gz"
     },
     {
-      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk11-binaries/releases/assets/9305002",
-      "id": 9305002,
-      "node_id": "MDEyOlJlbGVhc2VBc3NldDkzMDUwMDI=",
-      "name": "OpenJDK11-jdk_ppc64le_linux_openj9_2018-10-20-05-19.tar.gz.sha256.txt",
+      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk11-binaries/releases/assets/9334216",
+      "id": 9334216,
+      "node_id": "MDEyOlJlbGVhc2VBc3NldDkzMzQyMTY=",
+      "name": "OpenJDK11-jdk_ppc64le_linux_openj9_2018-10-21-04-34.tar.gz.sha256.txt",
       "label": "",
       "uploader": {
         "login": "adoptopenjdk-github-bot",
@@ -369,15 +369,15 @@
       "state": "uploaded",
       "size": 125,
       "download_count": 0,
-      "created_at": "2018-10-20T05:21:07Z",
-      "updated_at": "2018-10-20T05:21:07Z",
-      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11-2018-10-20-05-19/OpenJDK11-jdk_ppc64le_linux_openj9_2018-10-20-05-19.tar.gz.sha256.txt"
+      "created_at": "2018-10-21T04:35:42Z",
+      "updated_at": "2018-10-21T04:35:42Z",
+      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11-2018-10-21-04-34/OpenJDK11-jdk_ppc64le_linux_openj9_2018-10-21-04-34.tar.gz.sha256.txt"
     },
     {
-      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk11-binaries/releases/assets/9305005",
-      "id": 9305005,
-      "node_id": "MDEyOlJlbGVhc2VBc3NldDkzMDUwMDU=",
-      "name": "OpenJDK11-jdk_s390x_linux_hotspot_2018-10-20-05-19.tar.gz",
+      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk11-binaries/releases/assets/9334217",
+      "id": 9334217,
+      "node_id": "MDEyOlJlbGVhc2VBc3NldDkzMzQyMTc=",
+      "name": "OpenJDK11-jdk_s390x_linux_hotspot_2018-10-21-04-34.tar.gz",
       "label": "",
       "uploader": {
         "login": "adoptopenjdk-github-bot",
@@ -401,17 +401,17 @@
       },
       "content_type": "application/gzip",
       "state": "uploaded",
-      "size": 174991823,
+      "size": 174993762,
       "download_count": 0,
-      "created_at": "2018-10-20T05:21:07Z",
-      "updated_at": "2018-10-20T05:21:15Z",
-      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11-2018-10-20-05-19/OpenJDK11-jdk_s390x_linux_hotspot_2018-10-20-05-19.tar.gz"
+      "created_at": "2018-10-21T04:35:43Z",
+      "updated_at": "2018-10-21T04:35:52Z",
+      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11-2018-10-21-04-34/OpenJDK11-jdk_s390x_linux_hotspot_2018-10-21-04-34.tar.gz"
     },
     {
-      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk11-binaries/releases/assets/9305010",
-      "id": 9305010,
-      "node_id": "MDEyOlJlbGVhc2VBc3NldDkzMDUwMTA=",
-      "name": "OpenJDK11-jdk_s390x_linux_hotspot_2018-10-20-05-19.tar.gz.sha256.txt",
+      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk11-binaries/releases/assets/9334221",
+      "id": 9334221,
+      "node_id": "MDEyOlJlbGVhc2VBc3NldDkzMzQyMjE=",
+      "name": "OpenJDK11-jdk_s390x_linux_hotspot_2018-10-21-04-34.tar.gz.sha256.txt",
       "label": "",
       "uploader": {
         "login": "adoptopenjdk-github-bot",
@@ -437,15 +437,15 @@
       "state": "uploaded",
       "size": 124,
       "download_count": 0,
-      "created_at": "2018-10-20T05:21:16Z",
-      "updated_at": "2018-10-20T05:21:16Z",
-      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11-2018-10-20-05-19/OpenJDK11-jdk_s390x_linux_hotspot_2018-10-20-05-19.tar.gz.sha256.txt"
+      "created_at": "2018-10-21T04:35:53Z",
+      "updated_at": "2018-10-21T04:35:53Z",
+      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11-2018-10-21-04-34/OpenJDK11-jdk_s390x_linux_hotspot_2018-10-21-04-34.tar.gz.sha256.txt"
     },
     {
-      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk11-binaries/releases/assets/9305011",
-      "id": 9305011,
-      "node_id": "MDEyOlJlbGVhc2VBc3NldDkzMDUwMTE=",
-      "name": "OpenJDK11-jdk_s390x_linux_openj9_2018-10-20-05-19.tar.gz",
+      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk11-binaries/releases/assets/9334222",
+      "id": 9334222,
+      "node_id": "MDEyOlJlbGVhc2VBc3NldDkzMzQyMjI=",
+      "name": "OpenJDK11-jdk_s390x_linux_openj9_2018-10-21-04-34.tar.gz",
       "label": "",
       "uploader": {
         "login": "adoptopenjdk-github-bot",
@@ -469,17 +469,17 @@
       },
       "content_type": "application/gzip",
       "state": "uploaded",
-      "size": 197269604,
+      "size": 197269361,
       "download_count": 0,
-      "created_at": "2018-10-20T05:21:16Z",
-      "updated_at": "2018-10-20T05:21:26Z",
-      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11-2018-10-20-05-19/OpenJDK11-jdk_s390x_linux_openj9_2018-10-20-05-19.tar.gz"
+      "created_at": "2018-10-21T04:35:53Z",
+      "updated_at": "2018-10-21T04:36:03Z",
+      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11-2018-10-21-04-34/OpenJDK11-jdk_s390x_linux_openj9_2018-10-21-04-34.tar.gz"
     },
     {
-      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk11-binaries/releases/assets/9305012",
-      "id": 9305012,
-      "node_id": "MDEyOlJlbGVhc2VBc3NldDkzMDUwMTI=",
-      "name": "OpenJDK11-jdk_s390x_linux_openj9_2018-10-20-05-19.tar.gz.sha256.txt",
+      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk11-binaries/releases/assets/9334229",
+      "id": 9334229,
+      "node_id": "MDEyOlJlbGVhc2VBc3NldDkzMzQyMjk=",
+      "name": "OpenJDK11-jdk_s390x_linux_openj9_2018-10-21-04-34.tar.gz.sha256.txt",
       "label": "",
       "uploader": {
         "login": "adoptopenjdk-github-bot",
@@ -505,15 +505,15 @@
       "state": "uploaded",
       "size": 123,
       "download_count": 0,
-      "created_at": "2018-10-20T05:21:26Z",
-      "updated_at": "2018-10-20T05:21:26Z",
-      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11-2018-10-20-05-19/OpenJDK11-jdk_s390x_linux_openj9_2018-10-20-05-19.tar.gz.sha256.txt"
+      "created_at": "2018-10-21T04:36:03Z",
+      "updated_at": "2018-10-21T04:36:03Z",
+      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11-2018-10-21-04-34/OpenJDK11-jdk_s390x_linux_openj9_2018-10-21-04-34.tar.gz.sha256.txt"
     },
     {
-      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk11-binaries/releases/assets/9305013",
-      "id": 9305013,
-      "node_id": "MDEyOlJlbGVhc2VBc3NldDkzMDUwMTM=",
-      "name": "OpenJDK11-jdk_x64_linux_hotspot_2018-10-20-05-19.tar.gz",
+      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk11-binaries/releases/assets/9334230",
+      "id": 9334230,
+      "node_id": "MDEyOlJlbGVhc2VBc3NldDkzMzQyMzA=",
+      "name": "OpenJDK11-jdk_x64_linux_hotspot_2018-10-21-04-34.tar.gz",
       "label": "",
       "uploader": {
         "login": "adoptopenjdk-github-bot",
@@ -537,17 +537,17 @@
       },
       "content_type": "application/gzip",
       "state": "uploaded",
-      "size": 195638515,
+      "size": 195638880,
       "download_count": 0,
-      "created_at": "2018-10-20T05:21:27Z",
-      "updated_at": "2018-10-20T05:21:35Z",
-      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11-2018-10-20-05-19/OpenJDK11-jdk_x64_linux_hotspot_2018-10-20-05-19.tar.gz"
+      "created_at": "2018-10-21T04:36:04Z",
+      "updated_at": "2018-10-21T04:36:13Z",
+      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11-2018-10-21-04-34/OpenJDK11-jdk_x64_linux_hotspot_2018-10-21-04-34.tar.gz"
     },
     {
-      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk11-binaries/releases/assets/9305020",
-      "id": 9305020,
-      "node_id": "MDEyOlJlbGVhc2VBc3NldDkzMDUwMjA=",
-      "name": "OpenJDK11-jdk_x64_linux_hotspot_2018-10-20-05-19.tar.gz.sha256.txt",
+      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk11-binaries/releases/assets/9334231",
+      "id": 9334231,
+      "node_id": "MDEyOlJlbGVhc2VBc3NldDkzMzQyMzE=",
+      "name": "OpenJDK11-jdk_x64_linux_hotspot_2018-10-21-04-34.tar.gz.sha256.txt",
       "label": "",
       "uploader": {
         "login": "adoptopenjdk-github-bot",
@@ -573,15 +573,15 @@
       "state": "uploaded",
       "size": 122,
       "download_count": 0,
-      "created_at": "2018-10-20T05:21:36Z",
-      "updated_at": "2018-10-20T05:21:36Z",
-      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11-2018-10-20-05-19/OpenJDK11-jdk_x64_linux_hotspot_2018-10-20-05-19.tar.gz.sha256.txt"
+      "created_at": "2018-10-21T04:36:13Z",
+      "updated_at": "2018-10-21T04:36:13Z",
+      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11-2018-10-21-04-34/OpenJDK11-jdk_x64_linux_hotspot_2018-10-21-04-34.tar.gz.sha256.txt"
     },
     {
-      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk11-binaries/releases/assets/9305021",
-      "id": 9305021,
-      "node_id": "MDEyOlJlbGVhc2VBc3NldDkzMDUwMjE=",
-      "name": "OpenJDK11-jdk_x64_linux_openj9_2018-10-20-05-19.tar.gz",
+      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk11-binaries/releases/assets/9334232",
+      "id": 9334232,
+      "node_id": "MDEyOlJlbGVhc2VBc3NldDkzMzQyMzI=",
+      "name": "OpenJDK11-jdk_x64_linux_openj9_2018-10-21-04-34.tar.gz",
       "label": "",
       "uploader": {
         "login": "adoptopenjdk-github-bot",
@@ -605,17 +605,17 @@
       },
       "content_type": "application/gzip",
       "state": "uploaded",
-      "size": 195487334,
+      "size": 195493714,
       "download_count": 0,
-      "created_at": "2018-10-20T05:21:36Z",
-      "updated_at": "2018-10-20T05:21:45Z",
-      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11-2018-10-20-05-19/OpenJDK11-jdk_x64_linux_openj9_2018-10-20-05-19.tar.gz"
+      "created_at": "2018-10-21T04:36:13Z",
+      "updated_at": "2018-10-21T04:36:24Z",
+      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11-2018-10-21-04-34/OpenJDK11-jdk_x64_linux_openj9_2018-10-21-04-34.tar.gz"
     },
     {
-      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk11-binaries/releases/assets/9305025",
-      "id": 9305025,
-      "node_id": "MDEyOlJlbGVhc2VBc3NldDkzMDUwMjU=",
-      "name": "OpenJDK11-jdk_x64_linux_openj9_2018-10-20-05-19.tar.gz.sha256.txt",
+      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk11-binaries/releases/assets/9334241",
+      "id": 9334241,
+      "node_id": "MDEyOlJlbGVhc2VBc3NldDkzMzQyNDE=",
+      "name": "OpenJDK11-jdk_x64_linux_openj9_2018-10-21-04-34.tar.gz.sha256.txt",
       "label": "",
       "uploader": {
         "login": "adoptopenjdk-github-bot",
@@ -641,15 +641,15 @@
       "state": "uploaded",
       "size": 121,
       "download_count": 0,
-      "created_at": "2018-10-20T05:21:46Z",
-      "updated_at": "2018-10-20T05:21:46Z",
-      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11-2018-10-20-05-19/OpenJDK11-jdk_x64_linux_openj9_2018-10-20-05-19.tar.gz.sha256.txt"
+      "created_at": "2018-10-21T04:36:24Z",
+      "updated_at": "2018-10-21T04:36:24Z",
+      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11-2018-10-21-04-34/OpenJDK11-jdk_x64_linux_openj9_2018-10-21-04-34.tar.gz.sha256.txt"
     },
     {
-      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk11-binaries/releases/assets/9305026",
-      "id": 9305026,
-      "node_id": "MDEyOlJlbGVhc2VBc3NldDkzMDUwMjY=",
-      "name": "OpenJDK11-jdk_x64_linux_openj9_linuxXL_2018-10-20-05-19.tar.gz",
+      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk11-binaries/releases/assets/9334243",
+      "id": 9334243,
+      "node_id": "MDEyOlJlbGVhc2VBc3NldDkzMzQyNDM=",
+      "name": "OpenJDK11-jdk_x64_linux_openj9_linuxXL_2018-10-21-04-34.tar.gz",
       "label": "",
       "uploader": {
         "login": "adoptopenjdk-github-bot",
@@ -673,17 +673,17 @@
       },
       "content_type": "application/gzip",
       "state": "uploaded",
-      "size": 195412256,
+      "size": 195417134,
       "download_count": 0,
-      "created_at": "2018-10-20T05:21:46Z",
-      "updated_at": "2018-10-20T05:21:55Z",
-      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11-2018-10-20-05-19/OpenJDK11-jdk_x64_linux_openj9_linuxXL_2018-10-20-05-19.tar.gz"
+      "created_at": "2018-10-21T04:36:25Z",
+      "updated_at": "2018-10-21T04:36:35Z",
+      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11-2018-10-21-04-34/OpenJDK11-jdk_x64_linux_openj9_linuxXL_2018-10-21-04-34.tar.gz"
     },
     {
-      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk11-binaries/releases/assets/9305039",
-      "id": 9305039,
-      "node_id": "MDEyOlJlbGVhc2VBc3NldDkzMDUwMzk=",
-      "name": "OpenJDK11-jdk_x64_linux_openj9_linuxXL_2018-10-20-05-19.tar.gz.sha256.txt",
+      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk11-binaries/releases/assets/9334249",
+      "id": 9334249,
+      "node_id": "MDEyOlJlbGVhc2VBc3NldDkzMzQyNDk=",
+      "name": "OpenJDK11-jdk_x64_linux_openj9_linuxXL_2018-10-21-04-34.tar.gz.sha256.txt",
       "label": "",
       "uploader": {
         "login": "adoptopenjdk-github-bot",
@@ -709,15 +709,15 @@
       "state": "uploaded",
       "size": 129,
       "download_count": 0,
-      "created_at": "2018-10-20T05:21:56Z",
-      "updated_at": "2018-10-20T05:21:56Z",
-      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11-2018-10-20-05-19/OpenJDK11-jdk_x64_linux_openj9_linuxXL_2018-10-20-05-19.tar.gz.sha256.txt"
+      "created_at": "2018-10-21T04:36:36Z",
+      "updated_at": "2018-10-21T04:36:36Z",
+      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11-2018-10-21-04-34/OpenJDK11-jdk_x64_linux_openj9_linuxXL_2018-10-21-04-34.tar.gz.sha256.txt"
     },
     {
-      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk11-binaries/releases/assets/9305040",
-      "id": 9305040,
-      "node_id": "MDEyOlJlbGVhc2VBc3NldDkzMDUwNDA=",
-      "name": "OpenJDK11-jdk_x64_mac_hotspot_2018-10-20-05-19.tar.gz",
+      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk11-binaries/releases/assets/9334250",
+      "id": 9334250,
+      "node_id": "MDEyOlJlbGVhc2VBc3NldDkzMzQyNTA=",
+      "name": "OpenJDK11-jdk_x64_mac_hotspot_2018-10-21-04-34.tar.gz",
       "label": "",
       "uploader": {
         "login": "adoptopenjdk-github-bot",
@@ -741,17 +741,17 @@
       },
       "content_type": "application/gzip",
       "state": "uploaded",
-      "size": 189892211,
+      "size": 189892009,
       "download_count": 0,
-      "created_at": "2018-10-20T05:21:56Z",
-      "updated_at": "2018-10-20T05:22:06Z",
-      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11-2018-10-20-05-19/OpenJDK11-jdk_x64_mac_hotspot_2018-10-20-05-19.tar.gz"
+      "created_at": "2018-10-21T04:36:36Z",
+      "updated_at": "2018-10-21T04:36:46Z",
+      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11-2018-10-21-04-34/OpenJDK11-jdk_x64_mac_hotspot_2018-10-21-04-34.tar.gz"
     },
     {
-      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk11-binaries/releases/assets/9305044",
-      "id": 9305044,
-      "node_id": "MDEyOlJlbGVhc2VBc3NldDkzMDUwNDQ=",
-      "name": "OpenJDK11-jdk_x64_mac_hotspot_2018-10-20-05-19.tar.gz.sha256.txt",
+      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk11-binaries/releases/assets/9334259",
+      "id": 9334259,
+      "node_id": "MDEyOlJlbGVhc2VBc3NldDkzMzQyNTk=",
+      "name": "OpenJDK11-jdk_x64_mac_hotspot_2018-10-21-04-34.tar.gz.sha256.txt",
       "label": "",
       "uploader": {
         "login": "adoptopenjdk-github-bot",
@@ -777,15 +777,15 @@
       "state": "uploaded",
       "size": 120,
       "download_count": 0,
-      "created_at": "2018-10-20T05:22:07Z",
-      "updated_at": "2018-10-20T05:22:07Z",
-      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11-2018-10-20-05-19/OpenJDK11-jdk_x64_mac_hotspot_2018-10-20-05-19.tar.gz.sha256.txt"
+      "created_at": "2018-10-21T04:36:47Z",
+      "updated_at": "2018-10-21T04:36:47Z",
+      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11-2018-10-21-04-34/OpenJDK11-jdk_x64_mac_hotspot_2018-10-21-04-34.tar.gz.sha256.txt"
     },
     {
-      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk11-binaries/releases/assets/9305045",
-      "id": 9305045,
-      "node_id": "MDEyOlJlbGVhc2VBc3NldDkzMDUwNDU=",
-      "name": "OpenJDK11-jdk_x64_mac_openj9_2018-10-20-05-19.tar.gz",
+      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk11-binaries/releases/assets/9334260",
+      "id": 9334260,
+      "node_id": "MDEyOlJlbGVhc2VBc3NldDkzMzQyNjA=",
+      "name": "OpenJDK11-jdk_x64_mac_openj9_2018-10-21-04-34.tar.gz",
       "label": "",
       "uploader": {
         "login": "adoptopenjdk-github-bot",
@@ -809,17 +809,17 @@
       },
       "content_type": "application/gzip",
       "state": "uploaded",
-      "size": 180992841,
+      "size": 180996226,
       "download_count": 0,
-      "created_at": "2018-10-20T05:22:07Z",
-      "updated_at": "2018-10-20T05:22:16Z",
-      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11-2018-10-20-05-19/OpenJDK11-jdk_x64_mac_openj9_2018-10-20-05-19.tar.gz"
+      "created_at": "2018-10-21T04:36:47Z",
+      "updated_at": "2018-10-21T04:36:57Z",
+      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11-2018-10-21-04-34/OpenJDK11-jdk_x64_mac_openj9_2018-10-21-04-34.tar.gz"
     },
     {
-      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk11-binaries/releases/assets/9305051",
-      "id": 9305051,
-      "node_id": "MDEyOlJlbGVhc2VBc3NldDkzMDUwNTE=",
-      "name": "OpenJDK11-jdk_x64_mac_openj9_2018-10-20-05-19.tar.gz.sha256.txt",
+      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk11-binaries/releases/assets/9334262",
+      "id": 9334262,
+      "node_id": "MDEyOlJlbGVhc2VBc3NldDkzMzQyNjI=",
+      "name": "OpenJDK11-jdk_x64_mac_openj9_2018-10-21-04-34.tar.gz.sha256.txt",
       "label": "",
       "uploader": {
         "login": "adoptopenjdk-github-bot",
@@ -845,15 +845,15 @@
       "state": "uploaded",
       "size": 119,
       "download_count": 0,
-      "created_at": "2018-10-20T05:22:16Z",
-      "updated_at": "2018-10-20T05:22:16Z",
-      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11-2018-10-20-05-19/OpenJDK11-jdk_x64_mac_openj9_2018-10-20-05-19.tar.gz.sha256.txt"
+      "created_at": "2018-10-21T04:36:57Z",
+      "updated_at": "2018-10-21T04:36:57Z",
+      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11-2018-10-21-04-34/OpenJDK11-jdk_x64_mac_openj9_2018-10-21-04-34.tar.gz.sha256.txt"
     },
     {
-      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk11-binaries/releases/assets/9305052",
-      "id": 9305052,
-      "node_id": "MDEyOlJlbGVhc2VBc3NldDkzMDUwNTI=",
-      "name": "OpenJDK11-jdk_x64_windows_hotspot_2018-10-20-05-19.zip",
+      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk11-binaries/releases/assets/9334263",
+      "id": 9334263,
+      "node_id": "MDEyOlJlbGVhc2VBc3NldDkzMzQyNjM=",
+      "name": "OpenJDK11-jdk_x64_windows_hotspot_2018-10-21-04-34.zip",
       "label": "",
       "uploader": {
         "login": "adoptopenjdk-github-bot",
@@ -877,17 +877,17 @@
       },
       "content_type": "application/zip",
       "state": "uploaded",
-      "size": 192948079,
+      "size": 192942830,
       "download_count": 0,
-      "created_at": "2018-10-20T05:22:17Z",
-      "updated_at": "2018-10-20T05:22:26Z",
-      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11-2018-10-20-05-19/OpenJDK11-jdk_x64_windows_hotspot_2018-10-20-05-19.zip"
+      "created_at": "2018-10-21T04:36:58Z",
+      "updated_at": "2018-10-21T04:37:09Z",
+      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11-2018-10-21-04-34/OpenJDK11-jdk_x64_windows_hotspot_2018-10-21-04-34.zip"
     },
     {
-      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk11-binaries/releases/assets/9305056",
-      "id": 9305056,
-      "node_id": "MDEyOlJlbGVhc2VBc3NldDkzMDUwNTY=",
-      "name": "OpenJDK11-jdk_x64_windows_hotspot_2018-10-20-05-19.zip.sha256.txt",
+      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk11-binaries/releases/assets/9334266",
+      "id": 9334266,
+      "node_id": "MDEyOlJlbGVhc2VBc3NldDkzMzQyNjY=",
+      "name": "OpenJDK11-jdk_x64_windows_hotspot_2018-10-21-04-34.zip.sha256.txt",
       "label": "",
       "uploader": {
         "login": "adoptopenjdk-github-bot",
@@ -913,15 +913,15 @@
       "state": "uploaded",
       "size": 121,
       "download_count": 0,
-      "created_at": "2018-10-20T05:22:27Z",
-      "updated_at": "2018-10-20T05:22:27Z",
-      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11-2018-10-20-05-19/OpenJDK11-jdk_x64_windows_hotspot_2018-10-20-05-19.zip.sha256.txt"
+      "created_at": "2018-10-21T04:37:09Z",
+      "updated_at": "2018-10-21T04:37:09Z",
+      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11-2018-10-21-04-34/OpenJDK11-jdk_x64_windows_hotspot_2018-10-21-04-34.zip.sha256.txt"
     },
     {
-      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk11-binaries/releases/assets/9305057",
-      "id": 9305057,
-      "node_id": "MDEyOlJlbGVhc2VBc3NldDkzMDUwNTc=",
-      "name": "OpenJDK11-jdk_x64_windows_openj9_2018-10-20-05-19.zip",
+      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk11-binaries/releases/assets/9334267",
+      "id": 9334267,
+      "node_id": "MDEyOlJlbGVhc2VBc3NldDkzMzQyNjc=",
+      "name": "OpenJDK11-jdk_x64_windows_openj9_2018-10-21-04-34.zip",
       "label": "",
       "uploader": {
         "login": "adoptopenjdk-github-bot",
@@ -945,17 +945,17 @@
       },
       "content_type": "application/zip",
       "state": "uploaded",
-      "size": 196908310,
+      "size": 196912776,
       "download_count": 0,
-      "created_at": "2018-10-20T05:22:27Z",
-      "updated_at": "2018-10-20T05:22:38Z",
-      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11-2018-10-20-05-19/OpenJDK11-jdk_x64_windows_openj9_2018-10-20-05-19.zip"
+      "created_at": "2018-10-21T04:37:10Z",
+      "updated_at": "2018-10-21T04:37:20Z",
+      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11-2018-10-21-04-34/OpenJDK11-jdk_x64_windows_openj9_2018-10-21-04-34.zip"
     },
     {
-      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk11-binaries/releases/assets/9305064",
-      "id": 9305064,
-      "node_id": "MDEyOlJlbGVhc2VBc3NldDkzMDUwNjQ=",
-      "name": "OpenJDK11-jdk_x64_windows_openj9_2018-10-20-05-19.zip.sha256.txt",
+      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk11-binaries/releases/assets/9334271",
+      "id": 9334271,
+      "node_id": "MDEyOlJlbGVhc2VBc3NldDkzMzQyNzE=",
+      "name": "OpenJDK11-jdk_x64_windows_openj9_2018-10-21-04-34.zip.sha256.txt",
       "label": "",
       "uploader": {
         "login": "adoptopenjdk-github-bot",
@@ -981,15 +981,15 @@
       "state": "uploaded",
       "size": 120,
       "download_count": 0,
-      "created_at": "2018-10-20T05:22:38Z",
-      "updated_at": "2018-10-20T05:22:38Z",
-      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11-2018-10-20-05-19/OpenJDK11-jdk_x64_windows_openj9_2018-10-20-05-19.zip.sha256.txt"
+      "created_at": "2018-10-21T04:37:21Z",
+      "updated_at": "2018-10-21T04:37:21Z",
+      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11-2018-10-21-04-34/OpenJDK11-jdk_x64_windows_openj9_2018-10-21-04-34.zip.sha256.txt"
     },
     {
-      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk11-binaries/releases/assets/9305065",
-      "id": 9305065,
-      "node_id": "MDEyOlJlbGVhc2VBc3NldDkzMDUwNjU=",
-      "name": "OpenJDK11-jre_aarch64_linux_hotspot_2018-10-20-05-19.tar.gz",
+      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk11-binaries/releases/assets/9334272",
+      "id": 9334272,
+      "node_id": "MDEyOlJlbGVhc2VBc3NldDkzMzQyNzI=",
+      "name": "OpenJDK11-jre_aarch64_linux_hotspot_2018-10-21-04-34.tar.gz",
       "label": "",
       "uploader": {
         "login": "adoptopenjdk-github-bot",
@@ -1013,17 +1013,17 @@
       },
       "content_type": "application/gzip",
       "state": "uploaded",
-      "size": 40397382,
+      "size": 40409978,
       "download_count": 0,
-      "created_at": "2018-10-20T05:22:38Z",
-      "updated_at": "2018-10-20T05:22:41Z",
-      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11-2018-10-20-05-19/OpenJDK11-jre_aarch64_linux_hotspot_2018-10-20-05-19.tar.gz"
+      "created_at": "2018-10-21T04:37:21Z",
+      "updated_at": "2018-10-21T04:37:24Z",
+      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11-2018-10-21-04-34/OpenJDK11-jre_aarch64_linux_hotspot_2018-10-21-04-34.tar.gz"
     },
     {
-      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk11-binaries/releases/assets/9305066",
-      "id": 9305066,
-      "node_id": "MDEyOlJlbGVhc2VBc3NldDkzMDUwNjY=",
-      "name": "OpenJDK11-jre_aarch64_linux_hotspot_2018-10-20-05-19.tar.gz.sha256.txt",
+      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk11-binaries/releases/assets/9334273",
+      "id": 9334273,
+      "node_id": "MDEyOlJlbGVhc2VBc3NldDkzMzQyNzM=",
+      "name": "OpenJDK11-jre_aarch64_linux_hotspot_2018-10-21-04-34.tar.gz.sha256.txt",
       "label": "",
       "uploader": {
         "login": "adoptopenjdk-github-bot",
@@ -1049,15 +1049,15 @@
       "state": "uploaded",
       "size": 126,
       "download_count": 0,
-      "created_at": "2018-10-20T05:22:41Z",
-      "updated_at": "2018-10-20T05:22:41Z",
-      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11-2018-10-20-05-19/OpenJDK11-jre_aarch64_linux_hotspot_2018-10-20-05-19.tar.gz.sha256.txt"
+      "created_at": "2018-10-21T04:37:24Z",
+      "updated_at": "2018-10-21T04:37:24Z",
+      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11-2018-10-21-04-34/OpenJDK11-jre_aarch64_linux_hotspot_2018-10-21-04-34.tar.gz.sha256.txt"
     },
     {
-      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk11-binaries/releases/assets/9305067",
-      "id": 9305067,
-      "node_id": "MDEyOlJlbGVhc2VBc3NldDkzMDUwNjc=",
-      "name": "OpenJDK11-jre_ppc64_aix_hotspot_2018-10-20-05-19.tar.gz",
+      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk11-binaries/releases/assets/9334274",
+      "id": 9334274,
+      "node_id": "MDEyOlJlbGVhc2VBc3NldDkzMzQyNzQ=",
+      "name": "OpenJDK11-jre_ppc64_aix_hotspot_2018-10-21-04-34.tar.gz",
       "label": "",
       "uploader": {
         "login": "adoptopenjdk-github-bot",
@@ -1081,17 +1081,17 @@
       },
       "content_type": "application/gzip",
       "state": "uploaded",
-      "size": 42807831,
+      "size": 42809531,
       "download_count": 0,
-      "created_at": "2018-10-20T05:22:42Z",
-      "updated_at": "2018-10-20T05:22:44Z",
-      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11-2018-10-20-05-19/OpenJDK11-jre_ppc64_aix_hotspot_2018-10-20-05-19.tar.gz"
+      "created_at": "2018-10-21T04:37:25Z",
+      "updated_at": "2018-10-21T04:37:28Z",
+      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11-2018-10-21-04-34/OpenJDK11-jre_ppc64_aix_hotspot_2018-10-21-04-34.tar.gz"
     },
     {
-      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk11-binaries/releases/assets/9305071",
-      "id": 9305071,
-      "node_id": "MDEyOlJlbGVhc2VBc3NldDkzMDUwNzE=",
-      "name": "OpenJDK11-jre_ppc64_aix_hotspot_2018-10-20-05-19.tar.gz.sha256.txt",
+      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk11-binaries/releases/assets/9334275",
+      "id": 9334275,
+      "node_id": "MDEyOlJlbGVhc2VBc3NldDkzMzQyNzU=",
+      "name": "OpenJDK11-jre_ppc64_aix_hotspot_2018-10-21-04-34.tar.gz.sha256.txt",
       "label": "",
       "uploader": {
         "login": "adoptopenjdk-github-bot",
@@ -1117,15 +1117,15 @@
       "state": "uploaded",
       "size": 122,
       "download_count": 0,
-      "created_at": "2018-10-20T05:22:45Z",
-      "updated_at": "2018-10-20T05:22:45Z",
-      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11-2018-10-20-05-19/OpenJDK11-jre_ppc64_aix_hotspot_2018-10-20-05-19.tar.gz.sha256.txt"
+      "created_at": "2018-10-21T04:37:28Z",
+      "updated_at": "2018-10-21T04:37:28Z",
+      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11-2018-10-21-04-34/OpenJDK11-jre_ppc64_aix_hotspot_2018-10-21-04-34.tar.gz.sha256.txt"
     },
     {
-      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk11-binaries/releases/assets/9305073",
-      "id": 9305073,
-      "node_id": "MDEyOlJlbGVhc2VBc3NldDkzMDUwNzM=",
-      "name": "OpenJDK11-jre_ppc64_aix_openj9_2018-10-20-05-19.tar.gz",
+      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk11-binaries/releases/assets/9334276",
+      "id": 9334276,
+      "node_id": "MDEyOlJlbGVhc2VBc3NldDkzMzQyNzY=",
+      "name": "OpenJDK11-jre_ppc64_aix_openj9_2018-10-21-04-34.tar.gz",
       "label": "",
       "uploader": {
         "login": "adoptopenjdk-github-bot",
@@ -1149,17 +1149,17 @@
       },
       "content_type": "application/gzip",
       "state": "uploaded",
-      "size": 46928603,
+      "size": 46917515,
       "download_count": 0,
-      "created_at": "2018-10-20T05:22:45Z",
-      "updated_at": "2018-10-20T05:22:48Z",
-      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11-2018-10-20-05-19/OpenJDK11-jre_ppc64_aix_openj9_2018-10-20-05-19.tar.gz"
+      "created_at": "2018-10-21T04:37:29Z",
+      "updated_at": "2018-10-21T04:37:31Z",
+      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11-2018-10-21-04-34/OpenJDK11-jre_ppc64_aix_openj9_2018-10-21-04-34.tar.gz"
     },
     {
-      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk11-binaries/releases/assets/9305076",
-      "id": 9305076,
-      "node_id": "MDEyOlJlbGVhc2VBc3NldDkzMDUwNzY=",
-      "name": "OpenJDK11-jre_ppc64_aix_openj9_2018-10-20-05-19.tar.gz.sha256.txt",
+      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk11-binaries/releases/assets/9334280",
+      "id": 9334280,
+      "node_id": "MDEyOlJlbGVhc2VBc3NldDkzMzQyODA=",
+      "name": "OpenJDK11-jre_ppc64_aix_openj9_2018-10-21-04-34.tar.gz.sha256.txt",
       "label": "",
       "uploader": {
         "login": "adoptopenjdk-github-bot",
@@ -1185,15 +1185,15 @@
       "state": "uploaded",
       "size": 121,
       "download_count": 0,
-      "created_at": "2018-10-20T05:22:48Z",
-      "updated_at": "2018-10-20T05:22:48Z",
-      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11-2018-10-20-05-19/OpenJDK11-jre_ppc64_aix_openj9_2018-10-20-05-19.tar.gz.sha256.txt"
+      "created_at": "2018-10-21T04:37:32Z",
+      "updated_at": "2018-10-21T04:37:32Z",
+      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11-2018-10-21-04-34/OpenJDK11-jre_ppc64_aix_openj9_2018-10-21-04-34.tar.gz.sha256.txt"
     },
     {
-      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk11-binaries/releases/assets/9305077",
-      "id": 9305077,
-      "node_id": "MDEyOlJlbGVhc2VBc3NldDkzMDUwNzc=",
-      "name": "OpenJDK11-jre_ppc64le_linux_hotspot_2018-10-20-05-19.tar.gz",
+      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk11-binaries/releases/assets/9334281",
+      "id": 9334281,
+      "node_id": "MDEyOlJlbGVhc2VBc3NldDkzMzQyODE=",
+      "name": "OpenJDK11-jre_ppc64le_linux_hotspot_2018-10-21-04-34.tar.gz",
       "label": "",
       "uploader": {
         "login": "adoptopenjdk-github-bot",
@@ -1217,17 +1217,17 @@
       },
       "content_type": "application/gzip",
       "state": "uploaded",
-      "size": 37966887,
+      "size": 38049760,
       "download_count": 0,
-      "created_at": "2018-10-20T05:22:49Z",
-      "updated_at": "2018-10-20T05:22:51Z",
-      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11-2018-10-20-05-19/OpenJDK11-jre_ppc64le_linux_hotspot_2018-10-20-05-19.tar.gz"
+      "created_at": "2018-10-21T04:37:32Z",
+      "updated_at": "2018-10-21T04:37:35Z",
+      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11-2018-10-21-04-34/OpenJDK11-jre_ppc64le_linux_hotspot_2018-10-21-04-34.tar.gz"
     },
     {
-      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk11-binaries/releases/assets/9305079",
-      "id": 9305079,
-      "node_id": "MDEyOlJlbGVhc2VBc3NldDkzMDUwNzk=",
-      "name": "OpenJDK11-jre_ppc64le_linux_hotspot_2018-10-20-05-19.tar.gz.sha256.txt",
+      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk11-binaries/releases/assets/9334282",
+      "id": 9334282,
+      "node_id": "MDEyOlJlbGVhc2VBc3NldDkzMzQyODI=",
+      "name": "OpenJDK11-jre_ppc64le_linux_hotspot_2018-10-21-04-34.tar.gz.sha256.txt",
       "label": "",
       "uploader": {
         "login": "adoptopenjdk-github-bot",
@@ -1253,15 +1253,15 @@
       "state": "uploaded",
       "size": 126,
       "download_count": 0,
-      "created_at": "2018-10-20T05:22:51Z",
-      "updated_at": "2018-10-20T05:22:51Z",
-      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11-2018-10-20-05-19/OpenJDK11-jre_ppc64le_linux_hotspot_2018-10-20-05-19.tar.gz.sha256.txt"
+      "created_at": "2018-10-21T04:37:35Z",
+      "updated_at": "2018-10-21T04:37:35Z",
+      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11-2018-10-21-04-34/OpenJDK11-jre_ppc64le_linux_hotspot_2018-10-21-04-34.tar.gz.sha256.txt"
     },
     {
-      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk11-binaries/releases/assets/9305081",
-      "id": 9305081,
-      "node_id": "MDEyOlJlbGVhc2VBc3NldDkzMDUwODE=",
-      "name": "OpenJDK11-jre_ppc64le_linux_openj9_2018-10-20-05-19.tar.gz",
+      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk11-binaries/releases/assets/9334283",
+      "id": 9334283,
+      "node_id": "MDEyOlJlbGVhc2VBc3NldDkzMzQyODM=",
+      "name": "OpenJDK11-jre_ppc64le_linux_openj9_2018-10-21-04-34.tar.gz",
       "label": "",
       "uploader": {
         "login": "adoptopenjdk-github-bot",
@@ -1285,17 +1285,17 @@
       },
       "content_type": "application/gzip",
       "state": "uploaded",
-      "size": 41480872,
+      "size": 41382540,
       "download_count": 0,
-      "created_at": "2018-10-20T05:22:52Z",
-      "updated_at": "2018-10-20T05:22:56Z",
-      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11-2018-10-20-05-19/OpenJDK11-jre_ppc64le_linux_openj9_2018-10-20-05-19.tar.gz"
+      "created_at": "2018-10-21T04:37:35Z",
+      "updated_at": "2018-10-21T04:37:38Z",
+      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11-2018-10-21-04-34/OpenJDK11-jre_ppc64le_linux_openj9_2018-10-21-04-34.tar.gz"
     },
     {
-      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk11-binaries/releases/assets/9305085",
-      "id": 9305085,
-      "node_id": "MDEyOlJlbGVhc2VBc3NldDkzMDUwODU=",
-      "name": "OpenJDK11-jre_ppc64le_linux_openj9_2018-10-20-05-19.tar.gz.sha256.txt",
+      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk11-binaries/releases/assets/9334284",
+      "id": 9334284,
+      "node_id": "MDEyOlJlbGVhc2VBc3NldDkzMzQyODQ=",
+      "name": "OpenJDK11-jre_ppc64le_linux_openj9_2018-10-21-04-34.tar.gz.sha256.txt",
       "label": "",
       "uploader": {
         "login": "adoptopenjdk-github-bot",
@@ -1321,15 +1321,15 @@
       "state": "uploaded",
       "size": 125,
       "download_count": 0,
-      "created_at": "2018-10-20T05:22:57Z",
-      "updated_at": "2018-10-20T05:22:57Z",
-      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11-2018-10-20-05-19/OpenJDK11-jre_ppc64le_linux_openj9_2018-10-20-05-19.tar.gz.sha256.txt"
+      "created_at": "2018-10-21T04:37:39Z",
+      "updated_at": "2018-10-21T04:37:39Z",
+      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11-2018-10-21-04-34/OpenJDK11-jre_ppc64le_linux_openj9_2018-10-21-04-34.tar.gz.sha256.txt"
     },
     {
-      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk11-binaries/releases/assets/9305086",
-      "id": 9305086,
-      "node_id": "MDEyOlJlbGVhc2VBc3NldDkzMDUwODY=",
-      "name": "OpenJDK11-jre_x64_linux_hotspot_2018-10-20-05-19.tar.gz",
+      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk11-binaries/releases/assets/9334285",
+      "id": 9334285,
+      "node_id": "MDEyOlJlbGVhc2VBc3NldDkzMzQyODU=",
+      "name": "OpenJDK11-jre_x64_linux_hotspot_2018-10-21-04-34.tar.gz",
       "label": "",
       "uploader": {
         "login": "adoptopenjdk-github-bot",
@@ -1353,17 +1353,17 @@
       },
       "content_type": "application/gzip",
       "state": "uploaded",
-      "size": 41601145,
+      "size": 41603867,
       "download_count": 0,
-      "created_at": "2018-10-20T05:22:57Z",
-      "updated_at": "2018-10-20T05:23:00Z",
-      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11-2018-10-20-05-19/OpenJDK11-jre_x64_linux_hotspot_2018-10-20-05-19.tar.gz"
+      "created_at": "2018-10-21T04:37:39Z",
+      "updated_at": "2018-10-21T04:37:42Z",
+      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11-2018-10-21-04-34/OpenJDK11-jre_x64_linux_hotspot_2018-10-21-04-34.tar.gz"
     },
     {
-      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk11-binaries/releases/assets/9305090",
-      "id": 9305090,
-      "node_id": "MDEyOlJlbGVhc2VBc3NldDkzMDUwOTA=",
-      "name": "OpenJDK11-jre_x64_linux_hotspot_2018-10-20-05-19.tar.gz.sha256.txt",
+      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk11-binaries/releases/assets/9334286",
+      "id": 9334286,
+      "node_id": "MDEyOlJlbGVhc2VBc3NldDkzMzQyODY=",
+      "name": "OpenJDK11-jre_x64_linux_hotspot_2018-10-21-04-34.tar.gz.sha256.txt",
       "label": "",
       "uploader": {
         "login": "adoptopenjdk-github-bot",
@@ -1389,15 +1389,15 @@
       "state": "uploaded",
       "size": 122,
       "download_count": 0,
-      "created_at": "2018-10-20T05:23:00Z",
-      "updated_at": "2018-10-20T05:23:00Z",
-      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11-2018-10-20-05-19/OpenJDK11-jre_x64_linux_hotspot_2018-10-20-05-19.tar.gz.sha256.txt"
+      "created_at": "2018-10-21T04:37:42Z",
+      "updated_at": "2018-10-21T04:37:43Z",
+      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11-2018-10-21-04-34/OpenJDK11-jre_x64_linux_hotspot_2018-10-21-04-34.tar.gz.sha256.txt"
     },
     {
-      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk11-binaries/releases/assets/9305091",
-      "id": 9305091,
-      "node_id": "MDEyOlJlbGVhc2VBc3NldDkzMDUwOTE=",
-      "name": "OpenJDK11-jre_x64_linux_openj9_2018-10-20-05-19.tar.gz",
+      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk11-binaries/releases/assets/9334289",
+      "id": 9334289,
+      "node_id": "MDEyOlJlbGVhc2VBc3NldDkzMzQyODk=",
+      "name": "OpenJDK11-jre_x64_linux_openj9_2018-10-21-04-34.tar.gz",
       "label": "",
       "uploader": {
         "login": "adoptopenjdk-github-bot",
@@ -1421,17 +1421,17 @@
       },
       "content_type": "application/gzip",
       "state": "uploaded",
-      "size": 40965579,
+      "size": 40966856,
       "download_count": 0,
-      "created_at": "2018-10-20T05:23:01Z",
-      "updated_at": "2018-10-20T05:23:03Z",
-      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11-2018-10-20-05-19/OpenJDK11-jre_x64_linux_openj9_2018-10-20-05-19.tar.gz"
+      "created_at": "2018-10-21T04:37:44Z",
+      "updated_at": "2018-10-21T04:37:46Z",
+      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11-2018-10-21-04-34/OpenJDK11-jre_x64_linux_openj9_2018-10-21-04-34.tar.gz"
     },
     {
-      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk11-binaries/releases/assets/9305094",
-      "id": 9305094,
-      "node_id": "MDEyOlJlbGVhc2VBc3NldDkzMDUwOTQ=",
-      "name": "OpenJDK11-jre_x64_linux_openj9_2018-10-20-05-19.tar.gz.sha256.txt",
+      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk11-binaries/releases/assets/9334291",
+      "id": 9334291,
+      "node_id": "MDEyOlJlbGVhc2VBc3NldDkzMzQyOTE=",
+      "name": "OpenJDK11-jre_x64_linux_openj9_2018-10-21-04-34.tar.gz.sha256.txt",
       "label": "",
       "uploader": {
         "login": "adoptopenjdk-github-bot",
@@ -1457,15 +1457,15 @@
       "state": "uploaded",
       "size": 121,
       "download_count": 0,
-      "created_at": "2018-10-20T05:23:04Z",
-      "updated_at": "2018-10-20T05:23:04Z",
-      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11-2018-10-20-05-19/OpenJDK11-jre_x64_linux_openj9_2018-10-20-05-19.tar.gz.sha256.txt"
+      "created_at": "2018-10-21T04:37:46Z",
+      "updated_at": "2018-10-21T04:37:47Z",
+      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11-2018-10-21-04-34/OpenJDK11-jre_x64_linux_openj9_2018-10-21-04-34.tar.gz.sha256.txt"
     },
     {
-      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk11-binaries/releases/assets/9305095",
-      "id": 9305095,
-      "node_id": "MDEyOlJlbGVhc2VBc3NldDkzMDUwOTU=",
-      "name": "OpenJDK11-jre_x64_linux_openj9_linuxXL_2018-10-20-05-19.tar.gz",
+      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk11-binaries/releases/assets/9334292",
+      "id": 9334292,
+      "node_id": "MDEyOlJlbGVhc2VBc3NldDkzMzQyOTI=",
+      "name": "OpenJDK11-jre_x64_linux_openj9_linuxXL_2018-10-21-04-34.tar.gz",
       "label": "",
       "uploader": {
         "login": "adoptopenjdk-github-bot",
@@ -1489,17 +1489,17 @@
       },
       "content_type": "application/gzip",
       "state": "uploaded",
-      "size": 40912463,
+      "size": 40910722,
       "download_count": 0,
-      "created_at": "2018-10-20T05:23:04Z",
-      "updated_at": "2018-10-20T05:23:07Z",
-      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11-2018-10-20-05-19/OpenJDK11-jre_x64_linux_openj9_linuxXL_2018-10-20-05-19.tar.gz"
+      "created_at": "2018-10-21T04:37:47Z",
+      "updated_at": "2018-10-21T04:37:50Z",
+      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11-2018-10-21-04-34/OpenJDK11-jre_x64_linux_openj9_linuxXL_2018-10-21-04-34.tar.gz"
     },
     {
-      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk11-binaries/releases/assets/9305099",
-      "id": 9305099,
-      "node_id": "MDEyOlJlbGVhc2VBc3NldDkzMDUwOTk=",
-      "name": "OpenJDK11-jre_x64_linux_openj9_linuxXL_2018-10-20-05-19.tar.gz.sha256.txt",
+      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk11-binaries/releases/assets/9334293",
+      "id": 9334293,
+      "node_id": "MDEyOlJlbGVhc2VBc3NldDkzMzQyOTM=",
+      "name": "OpenJDK11-jre_x64_linux_openj9_linuxXL_2018-10-21-04-34.tar.gz.sha256.txt",
       "label": "",
       "uploader": {
         "login": "adoptopenjdk-github-bot",
@@ -1525,15 +1525,15 @@
       "state": "uploaded",
       "size": 129,
       "download_count": 0,
-      "created_at": "2018-10-20T05:23:07Z",
-      "updated_at": "2018-10-20T05:23:07Z",
-      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11-2018-10-20-05-19/OpenJDK11-jre_x64_linux_openj9_linuxXL_2018-10-20-05-19.tar.gz.sha256.txt"
+      "created_at": "2018-10-21T04:37:50Z",
+      "updated_at": "2018-10-21T04:37:50Z",
+      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11-2018-10-21-04-34/OpenJDK11-jre_x64_linux_openj9_linuxXL_2018-10-21-04-34.tar.gz.sha256.txt"
     },
     {
-      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk11-binaries/releases/assets/9305100",
-      "id": 9305100,
-      "node_id": "MDEyOlJlbGVhc2VBc3NldDkzMDUxMDA=",
-      "name": "OpenJDK11-jre_x64_mac_hotspot_2018-10-20-05-19.tar.gz",
+      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk11-binaries/releases/assets/9334294",
+      "id": 9334294,
+      "node_id": "MDEyOlJlbGVhc2VBc3NldDkzMzQyOTQ=",
+      "name": "OpenJDK11-jre_x64_mac_hotspot_2018-10-21-04-34.tar.gz",
       "label": "",
       "uploader": {
         "login": "adoptopenjdk-github-bot",
@@ -1557,17 +1557,17 @@
       },
       "content_type": "application/gzip",
       "state": "uploaded",
-      "size": 37952209,
+      "size": 37952483,
       "download_count": 0,
-      "created_at": "2018-10-20T05:23:07Z",
-      "updated_at": "2018-10-20T05:23:10Z",
-      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11-2018-10-20-05-19/OpenJDK11-jre_x64_mac_hotspot_2018-10-20-05-19.tar.gz"
+      "created_at": "2018-10-21T04:37:50Z",
+      "updated_at": "2018-10-21T04:37:53Z",
+      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11-2018-10-21-04-34/OpenJDK11-jre_x64_mac_hotspot_2018-10-21-04-34.tar.gz"
     },
     {
-      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk11-binaries/releases/assets/9305101",
-      "id": 9305101,
-      "node_id": "MDEyOlJlbGVhc2VBc3NldDkzMDUxMDE=",
-      "name": "OpenJDK11-jre_x64_mac_hotspot_2018-10-20-05-19.tar.gz.sha256.txt",
+      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk11-binaries/releases/assets/9334298",
+      "id": 9334298,
+      "node_id": "MDEyOlJlbGVhc2VBc3NldDkzMzQyOTg=",
+      "name": "OpenJDK11-jre_x64_mac_hotspot_2018-10-21-04-34.tar.gz.sha256.txt",
       "label": "",
       "uploader": {
         "login": "adoptopenjdk-github-bot",
@@ -1593,15 +1593,15 @@
       "state": "uploaded",
       "size": 120,
       "download_count": 0,
-      "created_at": "2018-10-20T05:23:10Z",
-      "updated_at": "2018-10-20T05:23:10Z",
-      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11-2018-10-20-05-19/OpenJDK11-jre_x64_mac_hotspot_2018-10-20-05-19.tar.gz.sha256.txt"
+      "created_at": "2018-10-21T04:37:53Z",
+      "updated_at": "2018-10-21T04:37:53Z",
+      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11-2018-10-21-04-34/OpenJDK11-jre_x64_mac_hotspot_2018-10-21-04-34.tar.gz.sha256.txt"
     },
     {
-      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk11-binaries/releases/assets/9305102",
-      "id": 9305102,
-      "node_id": "MDEyOlJlbGVhc2VBc3NldDkzMDUxMDI=",
-      "name": "OpenJDK11-jre_x64_mac_openj9_2018-10-20-05-19.tar.gz",
+      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk11-binaries/releases/assets/9334300",
+      "id": 9334300,
+      "node_id": "MDEyOlJlbGVhc2VBc3NldDkzMzQzMDA=",
+      "name": "OpenJDK11-jre_x64_mac_openj9_2018-10-21-04-34.tar.gz",
       "label": "",
       "uploader": {
         "login": "adoptopenjdk-github-bot",
@@ -1625,17 +1625,17 @@
       },
       "content_type": "application/gzip",
       "state": "uploaded",
-      "size": 38629012,
+      "size": 38630646,
       "download_count": 0,
-      "created_at": "2018-10-20T05:23:11Z",
-      "updated_at": "2018-10-20T05:23:13Z",
-      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11-2018-10-20-05-19/OpenJDK11-jre_x64_mac_openj9_2018-10-20-05-19.tar.gz"
+      "created_at": "2018-10-21T04:37:54Z",
+      "updated_at": "2018-10-21T04:37:56Z",
+      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11-2018-10-21-04-34/OpenJDK11-jre_x64_mac_openj9_2018-10-21-04-34.tar.gz"
     },
     {
-      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk11-binaries/releases/assets/9305103",
-      "id": 9305103,
-      "node_id": "MDEyOlJlbGVhc2VBc3NldDkzMDUxMDM=",
-      "name": "OpenJDK11-jre_x64_mac_openj9_2018-10-20-05-19.tar.gz.sha256.txt",
+      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk11-binaries/releases/assets/9334305",
+      "id": 9334305,
+      "node_id": "MDEyOlJlbGVhc2VBc3NldDkzMzQzMDU=",
+      "name": "OpenJDK11-jre_x64_mac_openj9_2018-10-21-04-34.tar.gz.sha256.txt",
       "label": "",
       "uploader": {
         "login": "adoptopenjdk-github-bot",
@@ -1661,15 +1661,15 @@
       "state": "uploaded",
       "size": 119,
       "download_count": 0,
-      "created_at": "2018-10-20T05:23:14Z",
-      "updated_at": "2018-10-20T05:23:14Z",
-      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11-2018-10-20-05-19/OpenJDK11-jre_x64_mac_openj9_2018-10-20-05-19.tar.gz.sha256.txt"
+      "created_at": "2018-10-21T04:37:57Z",
+      "updated_at": "2018-10-21T04:37:57Z",
+      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11-2018-10-21-04-34/OpenJDK11-jre_x64_mac_openj9_2018-10-21-04-34.tar.gz.sha256.txt"
     },
     {
-      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk11-binaries/releases/assets/9305104",
-      "id": 9305104,
-      "node_id": "MDEyOlJlbGVhc2VBc3NldDkzMDUxMDQ=",
-      "name": "OpenJDK11-jre_x64_windows_hotspot_2018-10-20-05-19.zip",
+      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk11-binaries/releases/assets/9334306",
+      "id": 9334306,
+      "node_id": "MDEyOlJlbGVhc2VBc3NldDkzMzQzMDY=",
+      "name": "OpenJDK11-jre_x64_windows_hotspot_2018-10-21-04-34.zip",
       "label": "",
       "uploader": {
         "login": "adoptopenjdk-github-bot",
@@ -1693,17 +1693,17 @@
       },
       "content_type": "application/zip",
       "state": "uploaded",
-      "size": 38522879,
+      "size": 38522602,
       "download_count": 0,
-      "created_at": "2018-10-20T05:23:14Z",
-      "updated_at": "2018-10-20T05:23:17Z",
-      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11-2018-10-20-05-19/OpenJDK11-jre_x64_windows_hotspot_2018-10-20-05-19.zip"
+      "created_at": "2018-10-21T04:37:57Z",
+      "updated_at": "2018-10-21T04:38:00Z",
+      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11-2018-10-21-04-34/OpenJDK11-jre_x64_windows_hotspot_2018-10-21-04-34.zip"
     },
     {
-      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk11-binaries/releases/assets/9305108",
-      "id": 9305108,
-      "node_id": "MDEyOlJlbGVhc2VBc3NldDkzMDUxMDg=",
-      "name": "OpenJDK11-jre_x64_windows_hotspot_2018-10-20-05-19.zip.sha256.txt",
+      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk11-binaries/releases/assets/9334308",
+      "id": 9334308,
+      "node_id": "MDEyOlJlbGVhc2VBc3NldDkzMzQzMDg=",
+      "name": "OpenJDK11-jre_x64_windows_hotspot_2018-10-21-04-34.zip.sha256.txt",
       "label": "",
       "uploader": {
         "login": "adoptopenjdk-github-bot",
@@ -1729,15 +1729,15 @@
       "state": "uploaded",
       "size": 121,
       "download_count": 0,
-      "created_at": "2018-10-20T05:23:17Z",
-      "updated_at": "2018-10-20T05:23:17Z",
-      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11-2018-10-20-05-19/OpenJDK11-jre_x64_windows_hotspot_2018-10-20-05-19.zip.sha256.txt"
+      "created_at": "2018-10-21T04:38:00Z",
+      "updated_at": "2018-10-21T04:38:00Z",
+      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11-2018-10-21-04-34/OpenJDK11-jre_x64_windows_hotspot_2018-10-21-04-34.zip.sha256.txt"
     },
     {
-      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk11-binaries/releases/assets/9305109",
-      "id": 9305109,
-      "node_id": "MDEyOlJlbGVhc2VBc3NldDkzMDUxMDk=",
-      "name": "OpenJDK11-jre_x64_windows_openj9_2018-10-20-05-19.zip",
+      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk11-binaries/releases/assets/9334309",
+      "id": 9334309,
+      "node_id": "MDEyOlJlbGVhc2VBc3NldDkzMzQzMDk=",
+      "name": "OpenJDK11-jre_x64_windows_openj9_2018-10-21-04-34.zip",
       "label": "",
       "uploader": {
         "login": "adoptopenjdk-github-bot",
@@ -1761,17 +1761,17 @@
       },
       "content_type": "application/zip",
       "state": "uploaded",
-      "size": 40065477,
+      "size": 40068906,
       "download_count": 0,
-      "created_at": "2018-10-20T05:23:18Z",
-      "updated_at": "2018-10-20T05:23:20Z",
-      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11-2018-10-20-05-19/OpenJDK11-jre_x64_windows_openj9_2018-10-20-05-19.zip"
+      "created_at": "2018-10-21T04:38:01Z",
+      "updated_at": "2018-10-21T04:38:04Z",
+      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11-2018-10-21-04-34/OpenJDK11-jre_x64_windows_openj9_2018-10-21-04-34.zip"
     },
     {
-      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk11-binaries/releases/assets/9305110",
-      "id": 9305110,
-      "node_id": "MDEyOlJlbGVhc2VBc3NldDkzMDUxMTA=",
-      "name": "OpenJDK11-jre_x64_windows_openj9_2018-10-20-05-19.zip.sha256.txt",
+      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk11-binaries/releases/assets/9334314",
+      "id": 9334314,
+      "node_id": "MDEyOlJlbGVhc2VBc3NldDkzMzQzMTQ=",
+      "name": "OpenJDK11-jre_x64_windows_openj9_2018-10-21-04-34.zip.sha256.txt",
       "label": "",
       "uploader": {
         "login": "adoptopenjdk-github-bot",
@@ -1797,12 +1797,12 @@
       "state": "uploaded",
       "size": 120,
       "download_count": 0,
-      "created_at": "2018-10-20T05:23:21Z",
-      "updated_at": "2018-10-20T05:23:21Z",
-      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11-2018-10-20-05-19/OpenJDK11-jre_x64_windows_openj9_2018-10-20-05-19.zip.sha256.txt"
+      "created_at": "2018-10-21T04:38:04Z",
+      "updated_at": "2018-10-21T04:38:04Z",
+      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11-2018-10-21-04-34/OpenJDK11-jre_x64_windows_openj9_2018-10-21-04-34.zip.sha256.txt"
     }
   ],
-  "tarball_url": "https://api.github.com/repos/AdoptOpenJDK/openjdk11-binaries/tarball/jdk11-2018-10-20-05-19",
-  "zipball_url": "https://api.github.com/repos/AdoptOpenJDK/openjdk11-binaries/zipball/jdk11-2018-10-20-05-19",
+  "tarball_url": "https://api.github.com/repos/AdoptOpenJDK/openjdk11-binaries/tarball/jdk11-2018-10-21-04-34",
+  "zipball_url": "https://api.github.com/repos/AdoptOpenJDK/openjdk11-binaries/zipball/jdk11-2018-10-21-04-34",
   "body": "Nightly Build of jdk11"
 }
